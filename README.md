@@ -6,7 +6,7 @@ the game is exclusively exploratory, the game takes about a minute or to so to l
 
 Preview can be viewed here : https://ridge-mead.netlify.app/
 </br>
-Alternatively here is the itch.io link for the game : https://jamesq15.itch.io/ridge-mead
+
 
 ## Credits 
 Sketchfab models:
